@@ -1,0 +1,55 @@
+[
+  {
+    "question": "Which of the following is not a polygon?",
+    "options": [
+      "Rectangle",
+      "Pentagon",
+      "Star",
+      "Circle"
+    ],
+    "correct": 3,
+      "img": "./assests/images/1.jpg"
+  },
+  {
+    "question": "A polygon with 8 sides is called a:",
+    "options": [
+      "Heptagon",
+      "Octagon",
+      "Nonagon",
+      "Decagon"
+    ],
+    "correct": 1,
+      "img": "./assests/images/2.jpg"
+  },
+  {
+    "question": "Which polygon has the least number of sides?",
+    "options": [
+      "Triangle",
+      "Quadrilateral",
+      "Pentagon",
+      "Hexagon"
+    ],
+    "correct": 0,
+      "img": "./assests/images/3.jpg"
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct": 2,
+      "img": "./assests/images/4.jpg"
+  },
+  {
+    "question": "A polygon with all sides of different lengths is called:",
+    "options": [
+      "Regular polygon",
+      "Irregular polygon"
+    ],
+    "correct": 1,
+      "img": "./assests/images/5.jpg"
+  }
+]
